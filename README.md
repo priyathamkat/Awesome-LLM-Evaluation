@@ -16,3 +16,7 @@ A curated list of papers, tools, platforms for evaluating LLMs
 
 # Other
 - [Evaluation Guidebook from HuggingFace](https://github.com/huggingface/evaluation-guidebook) - An excellent resource with nifty tips and tricks for evaluating LLMs.
+
+## Benchmarks
+
+- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 benchmark for scientific critique and epistemic calibration (falsification, limitations, overclaims, missing-evidence refusal, calibration, planted-flaw detection). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrations](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/tree/main/integrations)
