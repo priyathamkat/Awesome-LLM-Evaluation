@@ -10,6 +10,7 @@ A curated list of papers, tools, platforms for evaluating LLMs
 
 # Tools
 - [DeepEval](https://github.com/confident-ai/deepeval) - Open-source LLM evaluation framework. Similar to Pytest but specialized for unit testing LLM outputs.
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform for evaluating LLM and agent apps, with 70+ metrics, multimodal and custom evals, LLM-as-judge, and guardrail scanners. Self-hostable, Apache-2.0.
 
 # Platforms
 - [RELAI](https://relai.ai) - RELAI offers automated benchmark generating tools called *Data Agents* that can transform raw data into samples that can be used for LLM evaluation.
