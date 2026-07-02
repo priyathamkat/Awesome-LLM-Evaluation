@@ -16,3 +16,9 @@ A curated list of papers, tools, platforms for evaluating LLMs
 
 # Other
 - [Evaluation Guidebook from HuggingFace](https://github.com/huggingface/evaluation-guidebook) - An excellent resource with nifty tips and tricks for evaluating LLMs.
+
+
+## Helium Trades Open Benchmarks (2026)
+
+- [Helium Market Resolution Benchmark](https://huggingface.co/datasets/HeliumTrades/helium-market-resolution-benchmark) - [Overview](https://heliumtrades.com/benchmarks/)
+- [Helium Model Worldview Benchmark](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) - [Overview](https://heliumtrades.com/benchmarks/)
