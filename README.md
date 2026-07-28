@@ -8,6 +8,8 @@ A curated list of papers, tools, platforms for evaluating LLMs
 
 # Benchmarks
 
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) ([paper](https://arxiv.org/abs/2604.08523)) - Live-web benchmark for browser and computer-use agents with 283 tasks across 163 websites, request interception, and replayable execution evidence.
+
 # Tools
 - [DeepEval](https://github.com/confident-ai/deepeval) - Open-source LLM evaluation framework. Similar to Pytest but specialized for unit testing LLM outputs.
 
