@@ -10,6 +10,7 @@ A curated list of papers, tools, platforms for evaluating LLMs
 
 # Tools
 - [DeepEval](https://github.com/confident-ai/deepeval) - Open-source LLM evaluation framework. Similar to Pytest but specialized for unit testing LLM outputs.
+- [CiteGuard](https://github.com/larrylot/citeguard) - Local CLI that verifies citations in agent/deep-research Markdown reports (dead links, title bait, claim–source overlap; offline fixtures; no API keys).
 
 # Platforms
 - [RELAI](https://relai.ai) - RELAI offers automated benchmark generating tools called *Data Agents* that can transform raw data into samples that can be used for LLM evaluation.
