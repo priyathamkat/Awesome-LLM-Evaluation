@@ -6,6 +6,8 @@ A curated list of papers, tools, platforms for evaluating LLMs
 
 # Papers
 
+- [Consistency Is Not Understanding: Orbit Audits for Neural Field Weight Readers](https://arxiv.org/abs/2611.05798) - Cha et al., arXiv preprint, 2026. Audits recognition from neural-field weights under function-preserving neuron permutations and positive ReLU rescalings, separating task accuracy from prediction consistency.
+
 # Benchmarks
 
 # Tools
